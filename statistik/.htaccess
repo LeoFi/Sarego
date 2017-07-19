@@ -1,0 +1,4 @@
+AuthName "domainfactory Statistiken"
+AuthType Basic
+require user 522985
+AuthPGAuthoritative On
